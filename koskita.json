@@ -1,0 +1,30 @@
+{
+  "kos": [
+    {
+      "idkos": "1",
+      "nama": "Kos Putra Pak Hardi",
+      "alamat": "Rungkut Mejoyo AN41",
+      "tipekos": "putra",
+      "wifi": "yes",
+      "hargaperbulan": "900000",
+      "kamar": [
+        {
+          "id": "12",
+          "ac": "yes",
+          "kamarmandidalam": "no",
+          "luaskamar": "12",
+          "termasuklistrik": "yes",
+          "maksperkamar": "1"
+        },
+        {
+          "ac": "11",
+          "kamarmandidalam": "yes",
+          "luaskamar": "20",
+          "termasuklistrik": "yes",
+          "maksperkamar": "1"
+        }
+      ],
+      "deskripsi": "Kos Murah yang dekat ubaya dengan ruangan luas dan bersih"
+    }      
+  ]
+}
