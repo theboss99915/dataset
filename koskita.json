@@ -5,22 +5,52 @@
       "alamat": "Rungkut Mejoyo AN41",
       "tipekos": "putra",
       "wifi": "yes",
-      "hargaperbulan": "900000",
       "kamar": [
         {
-          "id": "12",
+          "id": "11",
           "ac": "yes",
           "kamarmandidalam": "no",
           "luaskamar": "12",
           "termasuklistrik": "yes",
-          "maksperkamar": "1"
+          "maksperkamar": "1",
+          "hargaperbulan": "900000"
         },
         {
-          "ac": "11",
+           "id": "12",
+          "ac": "no",
           "kamarmandidalam": "yes",
           "luaskamar": "20",
           "termasuklistrik": "yes",
-          "maksperkamar": "1"
+          "maksperkamar": "1",
+          "hargaperbulan": "1500000"
+        }
+      ],
+      "deskripsi": "Kos Murah yang dekat ubaya dengan ruangan luas dan bersih"
+    },
+    {
+      "idkos": "2",
+      "nama": "Kos Pelanggi",
+      "alamat": "Rungkut Mejoyo AN4",
+      "tipekos": "putri",
+      "wifi": "yes",
+      "kamar": [
+        {
+          "id": "21",
+          "ac": "yes",
+          "kamarmandidalam": "no",
+          "luaskamar": "16",
+          "termasuklistrik": "yes",
+          "maksperkamar": "1",
+          "hargaperbulan": "1200000"
+        },
+        {
+           "id": "21",
+          "ac": "no",
+          "kamarmandidalam": "yes",
+          "luaskamar": "15",
+          "termasuklistrik": "yes",
+          "maksperkamar": "1",
+          "hargaperbulan": "1200000"
         }
       ],
       "deskripsi": "Kos Murah yang dekat ubaya dengan ruangan luas dan bersih"
