@@ -9,6 +9,7 @@
       "kamar": [
         {
           "id": "11",
+          "url":"https://media.gettyimages.com/id/1213695547/photo/3d-rendering-of-an-elegant-bedroom.jpg?s=612x612&w=0&k=20&c=yxOoaz2IAd9zvtlXeS-Th-AiXhaCtMIxOONfGbtGeG8=",
           "ac": "yes",
           "kamarmandidalam": "no",
           "luaskamar": "12",
@@ -18,6 +19,7 @@
         },
         {
            "id": "12",
+          "url":"https://media.gettyimages.com/id/1264323513/photo/scandinavian-bedroom-interior-stock-photo.jpg?s=612x612&w=0&k=20&c=jYMbmLtLDOezPThalkXCfrKjbgkYHpQX2oY3-vjPhVI=",
           "ac": "no",
           "kamarmandidalam": "yes",
           "luaskamar": "20",
@@ -38,6 +40,7 @@
       "kamar": [
         {
           "id": "21",
+          "url":"https://media.gettyimages.com/id/1316508856/photo/3d-rendering-of-small-bedroom.jpg?s=612x612&w=0&k=20&c=m5EwV-f_vQMPNaTwxlkkwkkzI3bNTaU10TUZ_v-De7k=",
           "ac": "yes",
           "kamarmandidalam": "no",
           "luaskamar": "16",
@@ -46,7 +49,8 @@
           "hargaperbulan": "1200000"
         },
         {
-           "id": "21",
+           "id": "22",
+          "url":"https://media.gettyimages.com/id/1333102002/photo/modern-style-bedroom-interior.jpg?s=612x612&w=0&k=20&c=rkG5eNaw4cHR24ZnWxEVm9FIgIBwuXHoZhULUk9E7-Q=",
           "ac": "no",
           "kamarmandidalam": "yes",
           "luaskamar": "15",
